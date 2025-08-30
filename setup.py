@@ -56,7 +56,7 @@ setup(
                         'pandas==1.3.5',
                         'matplotlib==3.5.0',
                         'bottleneck==1.3.2',
-                        'numexpr==2.8.1',
+                        'numexpr==2.8.5',
                         'scipy==1.7.3',
                         'scikit-learn==1.0.1',
                         'seaborn==0.11.2',
