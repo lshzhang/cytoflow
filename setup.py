@@ -58,7 +58,7 @@ setup(
                         'bottleneck==1.3.2',
                         'numexpr==2.8.1',
                         'scipy==1.7.3',
-                        'scikit-learn==1.0.1',
+                        'scikit-learn==1.5.0',
                         'seaborn==0.11.2',
                         'statsmodels==0.13.0',
                         'natsort==7.1.1',
